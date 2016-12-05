@@ -44,7 +44,7 @@ Create the configuration file using artisan
 $ php artisan vendor:publish
 ~~~
 
-And set your own API key and Client ID:
+And set your own API key and Client ID in `config/campaignmonitor.php`:
 
 ~~~php
 <?php
